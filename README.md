@@ -1,10 +1,26 @@
-# Getting Started with Create React App
+# Music Quiz App 🎵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a **Music Quiz App** built using **React** and **TypeScript**. The app fetches multiple-choice questions from the [Open Trivia Database](https://opentdb.com/), specifically focusing on the **Music** category. Users are presented with 10 music-related questions, and their score is calculated as they answer each question.
 
-## Available Scripts
+## Features
+- Fetches questions from the Open Trivia Database API
+- 10 multiple-choice questions related to music
+- Score is updated and displayed in real-time
+- Simple, clean UI built with TypeScript
 
-In the project directory, you can run:
+## Usage
+- Start the quiz by clicking the Start Quiz button.
+- Each question will display 4 multiple-choice answers.
+- Select your answer for each question, and your score will update automatically.
+
+## Technologies Used
+- TypeScript: For building and maintaining a type-safe, scalable app.
+- React: For building a dynamic and responsive user interface.
+- Open Trivia Database API: To source music-related trivia questions.
+- HTML/CSS: For UI layout and styling.
+
+
+# Available Scripts
 
 ### `npm start`
 
